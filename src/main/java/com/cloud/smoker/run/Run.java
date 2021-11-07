@@ -1,4 +1,4 @@
-package com.smoker.cloud.run;
+package com.cloud.smoker.run;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
